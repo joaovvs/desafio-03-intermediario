@@ -20,9 +20,9 @@ Esse desafio, consiste na criação de um formulário para fixar os conhecimen
 
 ## Aprendizados
 
-- Formulários
+- Formulários;
 - Validações;
-- Customizações ;
+- Customizações;
 - Campos de formulário (input, select, checkbox);
 
 
